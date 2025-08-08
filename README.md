@@ -66,17 +66,31 @@ The ultimate goal is to:
 
 
 
-## 📷 Sample Output Images  
+## 📷 Sample Output Images 
 
-### **1. Target Distribution Before & After SMOTE**  
-![Target Distribution](images/target_distribution.png)  
+### **1. Classification report – Best Model**  
+![Confusion Matrix](output-images/classification-report.png)  
 
-### **2. Feature Importance (Random Forest)**  
-![Feature Importance](images/feature_importance.png)  
+### **2. Model Comparison Training vs Testing Accuracy**  
+![Model Comparison](output-images/training-and-testing-accuracy.png)  
 
-### **3. Confusion Matrix – Best Model**  
-![Confusion Matrix](images/confusion_matrix.png)  
+### **3. Class 0 – Precision Comparison**  
+![Class 0 Precision](output-images/class0-precision.png)  
 
-### **4. Model Comparison Chart**  
-![Model Comparison](images/model_comparison.png)  
+### Class 0 – Recall Comparison**  
+![Class 0 Recall](output-images/class0-recall.png)  
+
+### Class 0 – F1 Score Comparison**  
+![Class 0 F1 Score](output-images/class0-f1.png)  
+
+---
+
+### **4. Class 1 – Precision Comparison**  
+![Class 1 Precision](output-images/class1-precision.png)  
+
+###  Class 1 – Recall Comparison**  
+![Class 1 Recall](output-images/class1-recall.png)  
+
+### Class 1 – F1 Score Comparison**  
+![Class 1 F1 Score](output-images/class1-f1.png)  
 
