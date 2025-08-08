@@ -13,7 +13,7 @@ The ultimate goal is to:
 
 ## 📂 Dataset  
 
-**File:** `signal.csv`  
+**File:** `signal-data.csv`  
 - **Shape:** 1567 rows × 592 columns  
 - **Features:** 591 continuous sensor readings  
 - **Target:** Pass/Fail outcome  
